@@ -1,1 +1,2 @@
 1st line created in maser CLI
+2nd line added
